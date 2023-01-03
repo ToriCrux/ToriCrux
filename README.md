@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victoria Cruz</h1>
 <h3 align="center">A passionate software engineering student from Brazil.</h3>
 
-<p align="right"  width="400"> <img src="https://i.imgur.com/kplrGic.gif"/></p> 
+<p align="center"> <img src="https://i.imgur.com/kplrGic.gif"/></p> 
+
+<p></p>
 
 - 🔭 I’m currently working at **a data consulting company.**
 
@@ -18,9 +20,6 @@
 - ⚡ Fun fact: **My passion and curiosity for technology existed since I was little. But my start in the world of programming only started when I got "addicted" to Mr. Robot. This series propelled me to chase my dream, code like Elliot Alderson.**
 
 <h1></h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <strong><h3 align="left">Languages and Tools that I know:</h3></strong>
 <p align="left">
@@ -55,6 +54,8 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+  
+<h1></h1>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toricrux&show_icons=true&locale=en&layout=compact" alt="toricrux" /></p>
 
