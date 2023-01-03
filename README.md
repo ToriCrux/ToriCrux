@@ -1,6 +1,5 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/02/header.gif)
 <h1 align="center">Hi 👋, I'm Victoria Cruz</h1>
-<br>
 <h4 align="center">A passionate software engineering student from Brazil.</h4>
 
 <br>
