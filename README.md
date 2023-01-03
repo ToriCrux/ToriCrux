@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineering student from Brazil.</h3>
 img align="right" alt="Coding" width="400" src="https://tenor.com/pt-BR/view/programming-gif-25868426"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toricrux&label=Profile%20views&color=0e75b6&style=flat" alt="toricrux" /> </p>
+<p align="left"> <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"></p>
 
 - 🔭 I’m currently working at **a data consulting company.**
 
@@ -48,7 +48,7 @@ img align="right" alt="Coding" width="400" src="https://tenor.com/pt-BR/view/pro
 
 <p></p>
 
-<h3 align="left">Languages and Tools that I study:</h3>
+<h3 align="center">Languages and Tools that I study:</h3>
 <p align="center"> 
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
