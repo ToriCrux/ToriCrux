@@ -1,8 +1,6 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/02/header.gif)]
+![MasterHead](https://visme.co/blog/wp-content/uploads/2020/02/header.gif)
 <h1 align="center">Hi 👋, I'm Victoria Cruz</h1>
 <h3 align="center">A passionate software engineering student from Brazil.</h3>
-
-<p align="center"> <img src="https://i.imgur.com/kplrGic.gif"/></p>
 
 <p></p>
 
@@ -19,6 +17,8 @@
 - 📄 Know about my experiences [www.linkedin.com/in/victoria-cruz-da-silva](www.linkedin.com/in/victoria-cruz-da-silva)
 
 - ⚡ Fun fact: **My passion and curiosity for technology existed since I was little. But my start in the world of programming only started when I got "addicted" to Mr. Robot. This series propelled me to chase my dream, code like Elliot Alderson.**
+
+<p align="center"> <img src="https://i.imgur.com/kplrGic.gif"/></p>
 
 <h1></h1>
 
