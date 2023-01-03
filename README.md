@@ -71,3 +71,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toricrux&" alt="toricrux" /></p>
+<br>
+<hr>
+<q><h3 align="center">If you have knowledge, let others light their candles in it. - Margaret Fuller</h3></q>
