@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineering student from Brazil.</h3>
 img align="right" alt="Coding" width="400" src="https://tenor.com/pt-BR/view/programming-gif-25868426"
 
-<p align="center"> <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/></p>
+<!-- <p align="center"> <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/></p> -->
 
 - 🔭 I’m currently working at **a data consulting company.**
 
