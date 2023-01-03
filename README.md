@@ -23,6 +23,7 @@
 <br>
 
 <p align="center"> <img src="https://i.imgur.com/kplrGic.gif"/></p>
+<br>
 
 <h1></h1>
 
@@ -62,7 +63,7 @@
  
 <h1></h1>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toricrux&show_icons=true&locale=en&layout=compact" alt="toricrux" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toricrux&show_icons=true&locale=en&layout=compact" alt="toricrux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toricrux&show_icons=true&locale=en" alt="toricrux" /></p>
 
