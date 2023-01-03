@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victoria Cruz</h1>
 <h3 align="center">A passionate software engineering student from Brazil.</h3>
 
-<p align="center"> <img src="https://i.imgur.com/kplrGic.gif"/></p> 
+<p align="center"> <img src="https://i.imgur.com/kplrGic.gif"/></p>
 
 <p></p>
 
@@ -62,3 +62,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toricrux&show_icons=true&locale=en" alt="toricrux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toricrux&" alt="toricrux" /></p>
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif"/></p>
